@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenBDAgenda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="btadd">Añadir Contacto</string>
+    <string name="Númeroet">Número</string>
+    <string name="calleet">Calle</string>
+    <string name="nombreet">Nombre</string>
+    <string name="apellidoset">Apellidos</string>
+    <string name="fechaet">Fecha de nacimiento</string>
+    <string name="telefonoet">Telefono</string>
+    <string name="localidadet">Localidad</string>
+    <string name="textodeejemplo">Texto de ejemplo</string>
+    <string name="editarbt">Editar</string>
+    <string name="borrarbt">Borrar</string>
+    <string name="guardarbt">Guardar</string>
+    <string name="cancelarbt">Cancelar</string>
+</resources>
